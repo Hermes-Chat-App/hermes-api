@@ -1,0 +1,9 @@
+openapi: 3.0.3
+name: Hermes API Documentation
+info:
+  title: Hermes API Documentation
+  version: 1.0.0
+  description: |
+    This is the API documentation for Hermes.
+  servers:
+    - url: http://localhost:4000
